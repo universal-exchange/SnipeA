@@ -1,2 +1,0 @@
-# snipea
-snipex's administrator.
